@@ -8,6 +8,6 @@ I created them as free resources to be used in your specific use cases. If you'r
 
 ## Contribution
 
-If you’d like to contribute to this project, reach out to me on social media or [Discord](https://discord.gg/TpEcjRqk6J), or create a pull request for the necessary changes.
+If you’d like to contribute to this project, reach out to me on social media or [Discord](https://discord.gg/), or create a pull request for the necessary changes.
 
 ## Other Resources
